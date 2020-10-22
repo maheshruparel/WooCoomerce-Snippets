@@ -2,7 +2,7 @@
 
 // File : functions.php
 
-// Remove WooCommerce Tabs - this code removes all 3 tabs - to be more specific just remove actual unset lines 
+// Remove WooCommerce Tabs - this code removes all 3 tabs
 
 add_filter( 'woocommerce_product_tabs', 'woo_remove_product_tabs', 10 );
 
