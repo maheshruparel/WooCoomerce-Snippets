@@ -1,3 +1,5 @@
+<?php 
+
 // File : functions.php
 
 // Remove WooCommerce Tabs - this code removes all 3 tabs - to be more specific just remove actual unset lines 
